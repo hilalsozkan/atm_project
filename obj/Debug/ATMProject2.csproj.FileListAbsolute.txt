@@ -1,0 +1,7 @@
+C:\Users\yaozk\source\repos\ATMProject\ATMProject2\bin\Debug\ATMProject2.exe.config
+C:\Users\yaozk\source\repos\ATMProject\ATMProject2\bin\Debug\ATMProject2.exe
+C:\Users\yaozk\source\repos\ATMProject\ATMProject2\bin\Debug\ATMProject2.pdb
+C:\Users\yaozk\source\repos\ATMProject\ATMProject2\obj\Debug\ATMProject2.csprojAssemblyReference.cache
+C:\Users\yaozk\source\repos\ATMProject\ATMProject2\obj\Debug\ATMProject2.csproj.CoreCompileInputs.cache
+C:\Users\yaozk\source\repos\ATMProject\ATMProject2\obj\Debug\ATMProject2.exe
+C:\Users\yaozk\source\repos\ATMProject\ATMProject2\obj\Debug\ATMProject2.pdb
